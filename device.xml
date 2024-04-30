@@ -2,7 +2,7 @@
 <manifest>  
  
     <remote name="skd"
-        fetch="https://github.com/sony-kumano-development"
+        fetch="https://chronosaurus69"
         revision="lineage-20" />
 
   <project path="device/sony/bahamut" name="android_device_sony_bahamut" remote="skd"  />
